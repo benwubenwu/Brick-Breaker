@@ -1,2 +1,2 @@
 # Brick-Breaker
-Brick Breaker Game Coded in Java
+Brick Breaker game coded in Java
